@@ -23,4 +23,4 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitij3188&show_icons=true&&theme=radical" alt="kshitij3188" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitij3188&show_icons=true&&theme=radical" alt="kshitij3188" /></p>
