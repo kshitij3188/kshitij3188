@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Competitive Coding**
 
-- 📫 How to reach me **https://www.linkedin.com/in/kshitijk3188**
+- 📫 How to reach me **https://www.linkedin.com/in/kshitij3188**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
