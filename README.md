@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitij</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<!--<h3 align="center">A passionate Web Developer from India</h3>-->
 
 - 🔭 I’m currently working on **MERN Stack & Python Development**
 
@@ -24,3 +24,4 @@
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitij3188&show_icons=true&&theme=radical" alt="kshitij3188" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij3188&&show_icons=true&&theme=highcontrast" />
