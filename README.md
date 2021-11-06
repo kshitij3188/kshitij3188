@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitij</h1>
 <!--<h3 align="center">A passionate Web Developer from India</h3>-->
 
-- 🔭 I’m currently working on **MERN Stack & Python Development**
+- 🔭 I’m currently working on **Web Development and Cloud Computing**
 
 - 🌱 I’m currently learning **Docker and AWS**
 
