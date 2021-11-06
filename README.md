@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Stack & Python Development**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Docker and AWS**
 
 - 🤝 I’m looking for help with **Competitive Coding**
 
