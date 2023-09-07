@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kshitij</h1>
 <!--<h3 align="center">A passionate Web Developer from India</h3>-->
 
-- 🔭 I’m currently working on **Node.js and Cloud Computing**
+- 🔭 I’m currently working on **Data Protection Technologies**
 
-- 🌱 I’m currently learning **GCP and AWS**
+- 🌱 I’m currently learning **Big Data**
 
 - 🤝 I’m looking for help with **Competitive Coding**
 
