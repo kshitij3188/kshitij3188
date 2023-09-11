@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Protection Technologies<br><br>🌱 I’m currently learning Big Data<br><br>🤝 I’m looking for help with Competitive Coding<br><br>📫 How to reach me https://kshitijkavimandan.netlify.app/
+🔭 I’m currently working on Data Protection Technologies<br><br>🌱 I’m currently learning Big Data<br><br>🤝 I’m looking for help with Competitive Coding
 
 
 # 💻 Tech Stack:
