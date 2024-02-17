@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Protection Technologies<br><br>🌱 I’m currently learning Big Data<br><br>🤝 I’m looking for help with Competitive Coding
+🔭 I’m currently working on Data Mining<br><br>🌱 I’m currently learning Big Data<br><br>🤝 I’m looking for help with Competitive Coding
 
 
 # 💻 Tech Stack:
