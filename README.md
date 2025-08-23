@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Kshitij</h1>
-<h3 align="center">A passionate Data Engineer</h3>
+## Hi there! 👋
 
-- 🔭 I’m currently working on **building scalable data pipelines at ING**
+I'm Kshitij Kavimandan, a passionate Data Engineer with a keen interest in leveraging data and AI/ML to drive impactful decisions. I thrive on tackling complex challenges and turning data into actionable insights.
 
-- 🌱 I’m currently learning **Azure Data Engineering stack (Databricks, Synapse)**
+## About Me
 
-- 👯 I’m looking to collaborate on **open-source ETL frameworks**
+Based in Amsterdam, I work at ING as a Data Engineer. I hold an MSc in Computer Science from the University of Amsterdam, where I developed my skills in data processing and analytics. I enjoy exploring innovative solutions to enhance data-driven decision-making.
 
-- 🤝 I’m looking for help with **cloud-native data platforms (Azure, AWS)**
+## Skills & Technologies
 
-- 💬 Ask me about **Python, SQL, Airflow, Spark**
+tensorflow,pytorch,opencv,mongodb,mysql,postgres,docker,kubernetes,bash,azure,git,linux,nodejs,react,jenkins,py
 
-- 📄 Know about my experiences [https://kshitijkavimandan.netlify.app/resume/](https://kshitijkavimandan.netlify.app/resume/)
+## GitHub Stats
 
-<p align="left">
-</p>
+🏆 **Public Repositories:** 26  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitij3188&show_icons=true&theme=radical)
 
+## Publications
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij3188&show_icons=true&locale=en&layout=compact" alt="kshitij3188" /></p>
+- [Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval](https://arxiv.org/abs/2506.13496) - SIGIR '25
