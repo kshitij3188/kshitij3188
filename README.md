@@ -14,10 +14,7 @@ Based in Amsterdam, I work at ING as a Data Engineer. I hold an MSc in Computer 
 
 🏆 **Public Repositories:** 26  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitij3188&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij3188&theme=radical&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij3188&theme=radical&include_all_commits=false&count_private=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij3188&theme=radical&include_all_commits=false&count_private=false&layout=compact)
 
 ## Publications
 
