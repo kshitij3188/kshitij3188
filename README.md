@@ -8,6 +8,8 @@ Based in Amsterdam, I work at ING as a Data Engineer. I hold an MSc in Computer 
 
 ## Skills & Technologies
 
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,postgres,docker,kubernetes,bash,azure,git,linux,nodejs,react,jenkins,py&perline=8)](https://skillicons.dev)
+
 [(https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,postgres,docker,kubernetes)](https://skillicons.dev)
 [(https://skillicons.dev/icons?i=bash,azure,git,linux,nodejs,react,jenkins,py)](https://skillicons.dev)
 
@@ -17,7 +19,7 @@ Based in Amsterdam, I work at ING as a Data Engineer. I hold an MSc in Computer 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitij3188&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij3188&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij3188&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Publications
 
