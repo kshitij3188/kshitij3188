@@ -18,5 +18,5 @@ Based in Amsterdam, I work at ING as a Data Engineer. I hold an MSc in Computer 
 
 ## Publications
 
-- [Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval](https://arxiv.org/abs/2506.13496) - SIGIR '25
+- [Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval](https://ceur-ws.org/Vol-4062/paper7.pdf) - SIGIR '25
 - [A Surveillance-Based Interactive Robot](https://arxiv.org/abs/2508.13319) - BSc CS
